@@ -23,7 +23,7 @@ services:
       - INSTALL_MAVEN=false
       # - M2_HOME=/opt/apache-maven-3.9.8
     ports:
-      - "3086:8086"
+      - "3086:8080"
     # Uncomment the next four lines if you will use a ptrace-based debugger like C++, Go, and Rust.
     # cap_add:
     #   - SYS_PTRACE

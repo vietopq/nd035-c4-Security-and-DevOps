@@ -117,7 +117,7 @@
 					<artifactId>maven-compiler-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>webapp</finalName>
+		<finalName>webApp</finalName>
 	</build>
 
 </project>
